@@ -1,7 +1,7 @@
 # Node.js e Express!
 
-Nesse aplicativo utilizei o node.js junto com o express para fazer requisiçôes.
-Usamos todos os principais metodos:
+Nesse aplicativo utilizei o node.js junto com o express para fazer requisições.
+Usei todos os principais metodos:
 
 - GET - Leitura
 - POST - Criação
